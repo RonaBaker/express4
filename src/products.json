@@ -1,0 +1,26 @@
+[{
+    "id":"261ac170-ad60-11e9-85f5-299adfe754fd",
+    "categoryId":"261ac170-ad60-11e9-85f5-299adfe754f8",
+    "name":"sweet-potato",
+    "itemsInStock": 20  
+},
+{
+    "id":"3329e4c0-ad60-11e9-85f5-299adfe754fd",
+    "categoryId":"3329e4c0-ad60-11e9-85f5-299adfe754f2",
+    "name":"cucumber",
+    "itemsInStock": 45
+},
+{
+    "id":"411c4c30-ad60-11e9-85f5-299adfe754fd",
+    "categoryId":"261ac170-ad60-11e9-85f5-299adfe754f8",
+    "name":"carrot",
+    "itemsInStock": 15
+
+},
+{
+    "id":"480343f0-ad60-11e9-85f5-299adfe754fd",
+    "categoryId":"fru1fru1fru1fru1fru1fru1fru1fru1fru1",
+    "name":"apple",
+    "itemsInStock": 15
+    
+}]
